@@ -20,7 +20,8 @@ https://start.spring.io/
 [Spring Initializr](https://start.spring.io/)
 
 
-![スクリーンショット 2021-01-24 1.40.07.png](inkdrop://file:HkyDcmLUX)
+<img width="1496" alt="スクリーンショット 2021-01-24 1 40 07" src="https://user-images.githubusercontent.com/1316886/105608632-6b107000-5de7-11eb-8628-d2552b22df3f.png">
+
 
 
 ### Procfile
